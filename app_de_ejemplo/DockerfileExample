@@ -1,0 +1,11 @@
+# Instrucciones de docker
+# FROM - Indicar la imagen base
+# WORKDIR - Cambiar el directorio de trabajo
+# COPY - Copiar archivos para la aplicacion
+# ADD - Agregar archivos para la aplicacion
+# RUN - Ejecutar comandos
+# ENV - Agregar variables de entorno
+# EXPOSE - Exponer los puertos de la aplicacion
+# USER - Construir la imagen con un usuario
+# CMD - Ejecutar comandos una vez iniciado el contenedor (se pueden modificar) 
+# ENTRYPOINT - Ejecutar comandos una vez iniciado el contenedor
